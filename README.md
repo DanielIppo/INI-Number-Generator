@@ -13,7 +13,6 @@ Progress:
 
 How to run: 
 
-To make it work:
 - Download the project
 - Open it via Visual Studio 2022.
 - Install the following packages via vcpkg: jsoncpp, libpq. Use the official guides to get these packages into Visual Studio 2022.
