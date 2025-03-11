@@ -12,6 +12,7 @@ Progress:
 - [11/03/2025] Changed the date of birth entry and created the algorithm to generate the code
 
 How to run: 
+
 To make it work:
 - Download the project
 - Open it via Visual Studio 2022.
